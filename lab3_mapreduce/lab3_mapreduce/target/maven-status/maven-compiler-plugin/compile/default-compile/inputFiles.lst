@@ -1,4 +1,7 @@
 C:\Users\MohamedBentaleb\source\repos\BIGDATALABS\lab3_mapreduce\lab3_mapreduce\src\main\java\edu\ismagi\hadoop\mapreduce\WordCount.java
 C:\Users\MohamedBentaleb\source\repos\BIGDATALABS\lab3_mapreduce\lab3_mapreduce\src\main\java\edu\ismagi\hadoop\mapreduce\IntSumReducer.java
+C:\Users\MohamedBentaleb\source\repos\BIGDATALABS\lab3_mapreduce\lab3_mapreduce\src\main\java\edu\ismagi\hadoop\mapreduce\SalesAnalysis.java
 C:\Users\MohamedBentaleb\source\repos\BIGDATALABS\lab3_mapreduce\lab3_mapreduce\src\main\java\edu\ismagi\hadoop\mapreduce\Main.java
+C:\Users\MohamedBentaleb\source\repos\BIGDATALABS\lab3_mapreduce\lab3_mapreduce\src\main\java\edu\ismagi\hadoop\mapreduce\SalesMapper.java
+C:\Users\MohamedBentaleb\source\repos\BIGDATALABS\lab3_mapreduce\lab3_mapreduce\src\main\java\edu\ismagi\hadoop\mapreduce\SalesReducer.java
 C:\Users\MohamedBentaleb\source\repos\BIGDATALABS\lab3_mapreduce\lab3_mapreduce\src\main\java\edu\ismagi\hadoop\mapreduce\TokenizerMapper.java

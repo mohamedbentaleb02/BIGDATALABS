@@ -46,7 +46,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>edu.ismagi.hadoop.mapreduce.WordCount</mainClass>
+                            <mainClass>edu.ismagi.hadoop.mapreduce.SalesAnalysis</mainClass>
                         </manifest>
                     </archive>
                     <finalName>mapreduce-app</finalName>
